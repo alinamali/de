@@ -240,7 +240,7 @@ dhcp-server 1
 pool DHCP200 1
 mask 255.255.255.192
 gateway 192.168.200.1
-dns 192.168.200.1
+dns 192.168.100.1
 domain-name quark.net
 end
 conf t
